@@ -1,4 +1,4 @@
 talk-bits
 =========
 
-spicks and specks, maybe whole talks, in openoffice... mostly
+spicks and specks, maybe whole talks
